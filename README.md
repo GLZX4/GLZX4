@@ -6,7 +6,7 @@ Welcome to my GitHub corner! I'm a student at the University of Chester, knee-de
 - 🌱 On a journey to master ASP.NET, MySQL, and dabbling in R, because why not? Always learning, always growing.
 - 👯 Looking to team up on cool projects, especially if they combine tech and fast cars.
 - 💬 Got questions about tech, motorsports, or why I think model making is the coolest? Hit me up!
-- 📫 Reach out: georgeharrison002@googlemail.com or let's connect on LinkedIn (don't forget to add your link here).
+- 📫 Reach out: georgeharrison002@googlemail.com or let's connect on LinkedIn: [[George](https://www.linkedin.com/in/george-harrison-39810a2a8/)].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you'll find me karting, sim-racing, or getting messy with watercolours and model kits.
 
@@ -21,7 +21,7 @@ Getting my hands dirty with ASP.NET and MySQL, and poking around R for the fun o
 
 #### Connect With Me 🌐
 - 📧 Email: georgeharrison002@googlemail.com
-- 💼 LinkedIn: [Your LinkedIn URL here]
+- 💼 LinkedIn: [[George](https://www.linkedin.com/in/george-harrison-39810a2a8/)]
 - 🏎️ Let's race towards innovation together!
 
 Feel free to reach out for a chat or if you're keen on collaborating on something exciting. Let's make something awesome!
