@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, i'm George:
 🔭 Currently sharpening my skills in C++, Java, and diving into Full Stack Development. I'm all about merging tech with the thrill of racing.<br>🌱 On a journey to master ASP.NET, MySQL, and dabbling in R, because why not? Always learning, always growing.<br>👯 Looking to team up on cool projects, especially if they combine tech and fast cars.<br>💬 Got questions about tech, motorsports, or why I think model making is the coolest? Hit me up!<br>📫 Reach out: georgeharrison002@googlemail.com or let's connect on LinkedIn: George.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I'm not coding, you'll find me karting, sim-racing, or getting messy with watercolours and model kits.
 
 
